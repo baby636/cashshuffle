@@ -1,6 +1,6 @@
 # Start from a Debian image with the latest version of Go installed
 # and a workspace (GOPATH) configured at /go.
-FROM golang:1.12
+FROM golang:1.19.10
 
 MAINTAINER Josh Ellithorpe <quest@mac.com>
 
